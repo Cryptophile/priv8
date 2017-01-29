@@ -3,7 +3,7 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 
 ## Tips:
 
-[![OPSEC: Because jail is for wuftpd](http://img.youtube.com/vi/9XaYdCdwiWU/0.jpg)](http://www.youtube.com/watch?v=9XaYdCdwiWU)
+OPSEC: Because jail is for wuftpd - http://www.youtube.com/watch?v=9XaYdCdwiWU)
 
 ### Browsers
 * [Tor Browser](https://www.torproject.org/)
@@ -34,7 +34,7 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 * [XMPP.is](https://xmpp.is)
 
 ### Avoiding Extradition 
-* These places currently hold no extradition treaty with the United States, it doesn't mean _they_ won't but it mean they will either:
+These places currently hold no extradition treaty with the United States, it doesn't mean _they_ won't but it mean they will either:
 > Afghanistan, Algeria, Andorra, Angola, Armenia, Bahrain, Bangladesh, Belarus, Bosnia and
 > Herzegovina, Brunei, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Cape Verde, the Central
 > African Republic, Chad, China, Comoros, Congo (Kinshasa), Congo (Brazzaville), Djibouti, Equatorial
