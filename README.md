@@ -49,4 +49,4 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 
 ### Search Engines
 
-- Soon to be updated!
+- Soon to be updated
