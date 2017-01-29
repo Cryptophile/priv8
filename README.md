@@ -1,17 +1,29 @@
 # Priv8 - Privacy & Security Resources
 This is a list of resources such as whitepapers, guides, tools & applications, along with various other things relating to privacy and security.
 
-### Browsers
-[Tor Browser]()
-[Mozilla Firefox]()
-[GNU IceCat]()
+## Tips:
 
-#### Browser Extensions
+[![OPSEC: Because jail is for wuftpd](http://img.youtube.com/vi/9XaYdCdwiWU/0.jpg)](http://www.youtube.com/watch?v=9XaYdCdwiWU)
+
+### Browsers
+* [Tor Browser](https://www.torproject.org/)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/)
+* [GNU IceCat](https://www.gnu.org/software/gnuzilla/)
+
+#### Browser Extensions (Firefox, may work with other versions of FF)
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+[Keylogger Beater](https://addons.mozilla.org/en-US/firefox/addon/keylogger-beater/)
+[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+[NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+[Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/)
 
 ### Email Services
 * [Tutanota](https://tutanota.com/)
 * [ProtonMail](https://protonmail.com/)
-* [Sigaint](http://sigaintevyh2rzvw.onion/)
+* [Sigaint](http://sigaintevyh2rzvw.onion/) (Tor Required)
+* [Autisici/Inventati](https://www.autistici.org/)
 
 ### VPNs (Virtual Private Networks)
 
@@ -32,5 +44,9 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 > Niger, Oman, Qatar, Russia, Rwanda, Samoa, São Tomé & Príncipe, Saudi Arabia, Senegal, Serbia,
 > Somalia, Sudan, Syria, Togo, Tunisia, Uganda, Ukraine, United Arab Emirates, Uzbekistan, Vanuatu,
 > Vatican, Vietnam and Yemen.
+
+### Password Managers
+
+### Search Engines
 
 - Soon to be updated!
