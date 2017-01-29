@@ -11,13 +11,13 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 * [GNU IceCat](https://www.gnu.org/software/gnuzilla/)
 
 #### Browser Extensions (Firefox, may work with other versions of FF)
-[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
-[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-[Keylogger Beater](https://addons.mozilla.org/en-US/firefox/addon/keylogger-beater/)
-[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
-[NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
-[Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/)
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* [Keylogger Beater](https://addons.mozilla.org/en-US/firefox/addon/keylogger-beater/)
+* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+* [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+* [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/)
 
 ### Email Services
 * [Tutanota](https://tutanota.com/)
