@@ -23,10 +23,10 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 * Use their, they're, and there correctly.
 
 #### Talks, videos, etc.
-OPSEC: Because jail is for wuftpd - http://www.youtube.com/watch?v=9XaYdCdwiWU)
-Glenn Greenwald: Why privacy matters - https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
-OPSEC Failures of Spies - https://www.youtube.com/watch?v=BwGsr3SzCZc
-Private Snafu: Spies - https://www.youtube.com/watch?v=vzIltaAnWFU
+* OPSEC: Because jail is for wuftpd - http://www.youtube.com/watch?v=9XaYdCdwiWU)
+* Glenn Greenwald: Why privacy matters - https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
+* OPSEC Failures of Spies - https://www.youtube.com/watch?v=BwGsr3SzCZc
+* Private Snafu: Spies - https://www.youtube.com/watch?v=vzIltaAnWFU
 
 #### Browsers
 * [Tor Browser](https://www.torproject.org/)
@@ -49,11 +49,11 @@ Private Snafu: Spies - https://www.youtube.com/watch?v=vzIltaAnWFU
 * [Autisici/Inventati](https://www.autistici.org/)
 
 #### Email Clients
-[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
-[Claws Mail](http://www.claws-mail.org/)
+* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+* [Claws Mail](http://www.claws-mail.org/)
 
 #### VPNs (Virtual Private Networks)
-[Crypto Storm](https://cryptostorm.is/)
+* [Crypto Storm](https://cryptostorm.is/)
 
 #### Chatting Services
 * [Wire](https://wire.com) - is a modern but secure/private chatting client that offers end-to-end encryption, open source avaiability, swiss-based, no ads, etc.
@@ -88,7 +88,7 @@ These places currently hold no extradition treaty with the United States, it doe
 
 
 #### Blogs/Communities
-[Puppet Zone](http://puppet.zone/)
-[GreySec](https://greysec.net/)
-[/r/privacy](https://www.reddit.com/r/privacy/)
-[/r/opsec](https://www.reddit.com/r/opsec/)
+* [Puppet Zone](http://puppet.zone/)
+* [GreySec](https://greysec.net/)
+* [/r/privacy](https://www.reddit.com/r/privacy/)
+* [/r/opsec](https://www.reddit.com/r/opsec/)
