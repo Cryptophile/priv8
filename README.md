@@ -85,10 +85,11 @@ These places currently hold no extradition treaty with the United States, it doe
 #### Papers, Documents, Guides
 * [Security Online Personas](http://puppet.zone/files/SecuringOnlinePersonas.pdf)
 * [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/)
-
+* [Crypto Paper]()
 
 #### Blogs/Communities
 * [Puppet Zone](http://puppet.zone/)
 * [GreySec](https://greysec.net/)
 * [/r/privacy](https://www.reddit.com/r/privacy/)
 * [/r/opsec](https://www.reddit.com/r/opsec/)
+* [thegrugq's Blog](https://grugq.github.io/)
