@@ -83,7 +83,7 @@ These places currently hold no extradition treaty with the United States, it doe
 * [Disconnect](https://search.disconnect.me/)
 
 #### Papers, Documents, Guides
-* [Security Online Personas](http://puppet.zone/files/SecuringOnlinePersonas.pdf)
+* [Securing Online Personas](http://puppet.zone/files/SecuringOnlinePersonas.pdf)
 * [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/)
 * [Crypto Paper](https://cryptoseb.pw/paper.html)
 * [Stratfor’s Glossary of Intel Terminology](https://wikileaks.org/IMG/pdf/The_Stratfor_Glossary_of_Useful_Baffling_and_Strange_Intelligence_Terms.pdf)
