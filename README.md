@@ -27,6 +27,10 @@ This is a list of resources such as whitepapers, guides, tools & applications, a
 * Glenn Greenwald: Why privacy matters - https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
 * OPSEC Failures of Spies - https://www.youtube.com/watch?v=BwGsr3SzCZc
 * Private Snafu: Spies - https://www.youtube.com/watch?v=vzIltaAnWFU
+* Terms and Conditions May Apply - https://www.youtube.com/watch?v=W7d3cUQApiM
+* State of Surveillance - https://www.youtube.com/watch?v=ucRWyGKBVzo
+* Do Not Track - https://donottrack-doc.com/
+* I Spy Doc - http://ispydoc.com/
 
 #### Browsers
 * [Tor Browser](https://www.torproject.org/)
