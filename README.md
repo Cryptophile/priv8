@@ -85,7 +85,9 @@ These places currently hold no extradition treaty with the United States, it doe
 #### Papers, Documents, Guides
 * [Security Online Personas](http://puppet.zone/files/SecuringOnlinePersonas.pdf)
 * [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/)
-* [Crypto Paper]()
+* [Crypto Paper](https://cryptoseb.pw/paper.html)
+* [Stratfor’s Glossary of Intel Terminology](https://wikileaks.org/IMG/pdf/The_Stratfor_Glossary_of_Useful_Baffling_and_Strange_Intelligence_Terms.pdf)
+* [Allen Dulle’s 73 Rules of Spycraft](https://grugq.github.io/resources/Dulles%20on%20Tradecraft.pdf)
 
 #### Blogs/Communities
 * [Puppet Zone](http://puppet.zone/)
